@@ -1,1 +1,1 @@
-# Walmart Internship 2019: Planogram Compliance using Objecct Detection
+# Walmart Internship 2019: Planogram Compliance using Object Detection
