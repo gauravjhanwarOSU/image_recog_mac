@@ -1,1 +1,1 @@
-# image_recog_mac
+#Walmart Internship: Planogram Compliance using Objecct Detection
